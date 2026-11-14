@@ -17,7 +17,7 @@ The supplied Monu_Logo.png is used in the header and footer, with its transparen
 Career entries lead with context and verified impact; native details disclosures retain supporting work.
 Caterpillar offers historical annual revenue inspection, eight-quarter scenario comparison, accessible tables, and downloadable source subsets.
 The manufacturing explorer explains cost behavior and contribution margin without invented amounts.
-The personal story includes international tennis match participation, explicitly provided by the user. No tournaments, rankings, countries, or awards are claimed. No portrait or tennis photo has been used.
+The personal story includes international tennis match participation, explicitly provided by the user. No tournaments, rankings, countries, or awards are claimed. The About section uses the user-supplied Picture.jpeg portrait; no tennis photo has been used.
 Animations and Lenis respect reduced-motion preferences, including changes during the session.
 
 ## Content and privacy

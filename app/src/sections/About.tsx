@@ -8,6 +8,7 @@ export default function About() {
       <div className="about-label reveal">
         <span className="eyebrow">04 / THE PERSON BEHIND THE NUMBERS</span>
         <h2>Beyond<br /><em>the numbers.</em></h2>
+        <img className="about-portrait" src={import.meta.env.BASE_URL + 'monika-portrait.jpeg'} alt="Monika Choudhary" width={1066} height={1600} loading="lazy" decoding="async" />
         <div className="personal-principles"><span>Preparation.</span><span>Precision.</span><span>Perspective.</span></div>
       </div>
       <div className="about-copy reveal">

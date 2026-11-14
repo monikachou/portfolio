@@ -222,6 +222,7 @@ thead th { font-weight: 600; }
 .about { display: grid; grid-template-columns: 1fr 1.2fr; gap: 100px; }
 .about-label > .eyebrow { margin-bottom: 24px; }
 .about h2 { font-size: clamp(38px,4.2vw,60px); }
+.about-portrait { display: block; width: 100%; max-width: 340px; aspect-ratio: 3 / 4; height: auto; object-fit: cover; object-position: center 40%; margin: 32px 0 24px; }
 .personal-principles { font-family: Georgia,serif; font-size: 23px; font-style: italic; color: #897044; display: flex; flex-direction: column; gap: 12px; margin-top: 41px; padding-top: 28px; border-top: 1px solid var(--line); max-width: 265px; }
 .about-copy > p { margin-bottom: 21px; font-size: 15px; }
 .about-copy .large-copy { font-family: Georgia,serif; font-size: 28px; line-height: 1.4; letter-spacing: -.025em; color: var(--navy); margin-bottom: 26px; }

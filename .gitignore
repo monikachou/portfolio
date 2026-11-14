@@ -1,0 +1,7 @@
+.pydeps/
+*.pyd
+node_modules/
+__pycache__/
+.env
+app/dist/
+tmp/

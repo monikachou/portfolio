@@ -1,0 +1,25 @@
+Quarter,Scenario,Revenue_USD_millions,Type,Source
+Q4:26,Base,20280.98,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q1:27,Base,18459.9,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q2:27,Base,21775.58,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q3:27,Base,21922.92,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q4:27,Base,21497.8388,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q1:28,Base,19567.494,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q2:28,Base,23082.1148,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q3:28,Base,23238.2952,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q4:26,Optimistic,21046.3,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q1:27,Optimistic,19156.5,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q2:27,Optimistic,22597.3,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q3:27,Optimistic,22750.2,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q4:27,Optimistic,23150.93,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q1:28,Optimistic,21072.15,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q2:28,Optimistic,24857.03,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q3:28,Optimistic,25025.22,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q4:26,Conservative,18176.35,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q1:27,Conservative,16544.25,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q2:27,Conservative,19515.85,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q3:27,Conservative,19647.9,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q4:27,Conservative,17267.5325,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q1:28,Conservative,15717.0375,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q2:28,Conservative,18540.0575,Modeled forecast,Supplied project / BI_Forecast_Final.csv
+Q3:28,Conservative,18665.505,Modeled forecast,Supplied project / BI_Forecast_Final.csv

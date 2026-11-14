@@ -6,6 +6,6 @@ See [app/README.md](app/README.md) for development and content details.
 
 ## Deployment
 
-GitHub Pages publishes the main branch through the included workflow.
+In Settings > Pages, select GitHub Actions once. The included workflow publishes updates from main.
 
 Site: https://monikachou.github.io/portfolio/

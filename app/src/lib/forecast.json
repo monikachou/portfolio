@@ -1,0 +1,104 @@
+{
+  "Base": [
+    {
+      "period": "Q4:26",
+      "revenue": 20.28098
+    },
+    {
+      "period": "Q1:27",
+      "revenue": 18.4599
+    },
+    {
+      "period": "Q2:27",
+      "revenue": 21.77558
+    },
+    {
+      "period": "Q3:27",
+      "revenue": 21.922919999999998
+    },
+    {
+      "period": "Q4:27",
+      "revenue": 21.4978388
+    },
+    {
+      "period": "Q1:28",
+      "revenue": 19.567494
+    },
+    {
+      "period": "Q2:28",
+      "revenue": 23.0821148
+    },
+    {
+      "period": "Q3:28",
+      "revenue": 23.2382952
+    }
+  ],
+  "Optimistic": [
+    {
+      "period": "Q4:26",
+      "revenue": 21.0463
+    },
+    {
+      "period": "Q1:27",
+      "revenue": 19.1565
+    },
+    {
+      "period": "Q2:27",
+      "revenue": 22.5973
+    },
+    {
+      "period": "Q3:27",
+      "revenue": 22.7502
+    },
+    {
+      "period": "Q4:27",
+      "revenue": 23.15093
+    },
+    {
+      "period": "Q1:28",
+      "revenue": 21.07215
+    },
+    {
+      "period": "Q2:28",
+      "revenue": 24.857029999999998
+    },
+    {
+      "period": "Q3:28",
+      "revenue": 25.02522
+    }
+  ],
+  "Conservative": [
+    {
+      "period": "Q4:26",
+      "revenue": 18.17635
+    },
+    {
+      "period": "Q1:27",
+      "revenue": 16.54425
+    },
+    {
+      "period": "Q2:27",
+      "revenue": 19.515849999999997
+    },
+    {
+      "period": "Q3:27",
+      "revenue": 19.6479
+    },
+    {
+      "period": "Q4:27",
+      "revenue": 17.2675325
+    },
+    {
+      "period": "Q1:28",
+      "revenue": 15.7170375
+    },
+    {
+      "period": "Q2:28",
+      "revenue": 18.5400575
+    },
+    {
+      "period": "Q3:28",
+      "revenue": 18.665505
+    }
+  ]
+}

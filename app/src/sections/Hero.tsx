@@ -19,7 +19,7 @@ export default function Hero() {
           <h2>Accounting with precision.<br /><em>Finance with perspective.</em></h2>
           <p>I’m Monika, a finance and accounting professional who brings structure to complex financial information and turns detailed analysis into clearer business decisions.</p>
           <div className="hero-actions">
-            <a className="button primary" href="#works">Explore my work <ArrowUpRight size={17} /></a>
+            <a className="button primary" href="#experience">Explore my work <ArrowUpRight size={17} /></a>
             <a className="button secondary" href={resumeUrl} download>Download resume <Download size={16} /></a>
           </div>
           <a className="inline-link hero-contact" href="#contact">Let’s start a conversation <ArrowUpRight size={16} /></a>

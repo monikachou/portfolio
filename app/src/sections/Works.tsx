@@ -4,7 +4,7 @@ import CostAnalysis from '../components/CostAnalysis';
 
 export default function Works() {
   return <section id="works" className="projects section-wrap">
-    <div className="section-heading reveal"><div><span className="eyebrow">02 / SELECTED ANALYSIS</span><h2>Good analysis starts<br /><em>with a better question.</em></h2></div><div className="project-index"><a href="#caterpillar">01 / Financial performance ↗</a><a href="#manufacturing">02 / Product profitability ↗</a></div></div>
+    <div className="section-heading reveal"><div><span className="eyebrow">03 / SELECTED ANALYSIS</span><h2>Good analysis starts<br /><em>with a better question.</em></h2></div><div className="project-index"><a href="#caterpillar">01 / Financial performance ↗</a><a href="#manufacturing">02 / Product profitability ↗</a></div></div>
     <article id="caterpillar" className="case-study reveal" aria-labelledby="caterpillar-title">
       <div className="case-opening"><span className="eyebrow">CASE STUDY 01 / CATERPILLAR INC.</span><h3 id="caterpillar-title">Understanding the past.<br /><em>Modeling what comes next.</em></h3><p className="case-subtitle">Financial Statement Analysis, Forecasting & Working Capital Modeling</p></div>
       <div className="case-layout">

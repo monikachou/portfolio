@@ -21,7 +21,7 @@ const experiences = [
 
 export default function Experience() {
   return <section id="experience" className="experience section-wrap">
-    <div className="section-heading reveal"><div><span className="eyebrow">03 / THE CAREER JOURNEY</span><h2>Different environments.<br /><em>The same care.</em></h2></div><p>From enterprise data integrity to manufacturing accounting, each role has added a different way of understanding the business.</p></div>
+    <div className="section-heading reveal"><div><span className="eyebrow">02 / THE CAREER JOURNEY</span><h2>Work Experience</h2></div><p>From enterprise data integrity to manufacturing accounting, each role has added a different way of understanding the business.</p></div>
     <div className="career-journey">{experiences.map((item, index) => <article className="career-entry reveal" key={item.company}>
       <div className="career-rail"><span className="career-number">0{index + 1}</span><span className="career-date">{item.dates}</span><span className="career-chapter">{item.chapter}</span></div>
       <div className="career-story">

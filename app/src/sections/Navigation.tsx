@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { Menu, X, ArrowUpRight } from 'lucide-react';
 import Logo from '../components/Logo';
-const links = [['#services', 'Expertise'], ['#works', 'Projects'], ['#experience', 'Experience'], ['#about', 'About']];
+const links = [['#services', 'Expertise'], ['#experience', 'Work Experience'], ['#works', 'Projects'], ['#about', 'About']];
 export default function Navigation() {
   const [open, setOpen] = useState(false);
   const menuButton = useRef<HTMLButtonElement>(null);

@@ -51,7 +51,7 @@ export default function App() {
   return <>
     <a className="skip-link" href="#main">Skip to content</a>
     <ScrollProgress /><Navigation />
-    <main id="main"><Hero /><Services /><Works /><Experience /><About /><Contact /></main>
+    <main id="main"><Hero /><Services /><Experience /><Works /><About /><Contact /></main>
     <Footer />
   </>;
 }
